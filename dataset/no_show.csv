@@ -1,1 +1,6 @@
+patient_id,age,gender,sms_sent,wait_days,no_show
+1001,34,F,1,10,No
+1002,55,M,0,3,Yes
+1003,19,F,1,7,No
+1004,62,M,1,20,Yes
 
